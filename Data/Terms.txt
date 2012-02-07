@@ -1,0 +1,15 @@
+actin
+alpha-actinin
+architectural transcription factor
+beta-catenin
+ecm
+hmg-motif
+hmgb1
+nmp4
+p130cas
+pth
+pthr1
+r-smad
+receptor for advanced glycation endproducts
+smad4
+zyxin

@@ -1,0 +1,75 @@
+[actin, alpha-actinin, beta-catenin] 34
+[actin, alpha-actinin, ecm] 23
+[actin, alpha-actinin, p130cas] 3
+[actin, alpha-actinin, pth] 6
+[actin, alpha-actinin, zyxin] 29
+[actin, architectural transcription factor, beta-catenin] 2
+[actin, architectural transcription factor, nmp4] 4
+[actin, architectural transcription factor, pth] 2
+[actin, beta-catenin, ecm] 7
+[actin, beta-catenin, nmp4] 2
+[actin, beta-catenin, p130cas] 2
+[actin, beta-catenin, pth] 4
+[actin, beta-catenin, smad4] 2
+[actin, beta-catenin, zyxin] 3
+[actin, beta-catenin] 1004
+[actin, ecm, p130cas] 4
+[actin, ecm, pth] 8
+[actin, ecm, smad4] 3
+[actin, ecm, zyxin] 5
+[actin, ecm] 1065
+[actin, nmp4, p130cas, zyxin] 2
+[actin, nmp4, p130cas] 2
+[actin, nmp4, pth] 6
+[actin, nmp4, zyxin] 2
+[actin, nmp4] 14
+[actin, p130cas, pth] 2
+[actin, p130cas, zyxin] 4
+[actin, p130cas] 105
+[actin, pth, pthr1] 10
+[actin, pth, zyxin] 3
+[actin, pth] 779
+[actin, smad4] 130
+[actin, zyxin] 134
+[actin] 69803
+[alpha-actinin, ecm] 23
+[alpha-actinin, p130cas] 3
+[alpha-actinin, pth] 6
+[alpha-actinin, zyxin] 29
+[alpha-actinin] 2390
+[architectural transcription factor, nmp4] 5
+[architectural transcription factor, pth] 2
+[architectural transcription factor] 131
+[beta-catenin, ecm, pth] 2
+[beta-catenin, ecm] 50
+[beta-catenin, nmp4] 2
+[beta-catenin, p130cas] 8
+[beta-catenin, pth] 83
+[beta-catenin, zyxin] 4
+[beta-catenin] 9576
+[ecm, hmgb1] 3
+[ecm, p130cas] 14
+[ecm, pth] 112
+[ecm, r-smad] 3
+[ecm, smad4] 21
+[ecm, zyxin] 6
+[ecm] 11134
+[hmgb1, pth] 4
+[hmgb1] 1007
+[nmp4, p130cas, zyxin] 2
+[nmp4, p130cas] 2
+[nmp4, pth] 6
+[nmp4, zyxin] 2
+[nmp4] 25
+[p130cas, pth] 3
+[p130cas, zyxin] 6
+[p130cas] 372
+[pth, pthr1] 101
+[pth, smad4] 18
+[pth, zyxin] 4
+[pth] 15651
+[pthr1] 101
+[r-smad] 122
+[receptor for advanced glycation endproducts] 119
+[smad4] 1592
+[zyxin] 211
